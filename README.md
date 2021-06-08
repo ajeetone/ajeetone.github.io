@@ -1,9 +1,9 @@
-# ajeetone.github.io
-# Project :- Hire Me
-> Abstract of the project or small introduction of what the project is about
+# Hire Me
+> Why you should hire me as project manager
+> or small introduction of what the project is about
 <hr>
 
-# Table of Contents
+# Work Experience
 * [Team Members](#team-members)
 
 # <a name="team-members"></a>Team Members
